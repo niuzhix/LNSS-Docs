@@ -1,10 +1,3 @@
-<!--
- * @discription  : Copyright © 2021-2025 Blue Summer Studio. All rights reserved.
- * @Author       : Niu zhixin
- * @Date         : 2025-02-15 16:31:56
- * @LastEditTime : 2025-02-21 17:40:40
- * @LastEditors  : Niu zhixin
--->
 # LNSS 聊天系统 - 关于
 
 ## 用户指南 📖
