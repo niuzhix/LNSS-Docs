@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://niuzhix.github.io/LNSS-Docs/</loc>
-         <lastmod>2025-02-24</lastmod>
+         <lastmod>2025-03-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niuzhix.github.io/LNSS-Docs/Error/</loc>
+         <lastmod>2025-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niuzhix.github.io/LNSS-Docs/about/</loc>
-         <lastmod>2025-02-24</lastmod>
+         <lastmod>2025-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://niuzhix.github.io/LNSS-Docs/help/</loc>
-         <lastmod>2025-02-24</lastmod>
+         <lastmod>2025-03-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
