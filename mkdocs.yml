@@ -14,6 +14,7 @@ nav:
   - 主页: index.md
   - 关于: about.md
   - 帮助: help.md
+  - 错误解决: Error.md
 
 theme:
   name: material
